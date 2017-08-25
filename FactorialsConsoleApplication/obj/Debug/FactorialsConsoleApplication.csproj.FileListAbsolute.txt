@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2017\Projects\FactorialsConsoleApplication\FactorialsConsoleApplication\bin\Debug\FactorialsConsoleApplication.exe.config
+c:\users\alex\documents\visual studio 2017\Projects\FactorialsConsoleApplication\FactorialsConsoleApplication\bin\Debug\FactorialsConsoleApplication.exe
+c:\users\alex\documents\visual studio 2017\Projects\FactorialsConsoleApplication\FactorialsConsoleApplication\bin\Debug\FactorialsConsoleApplication.pdb
+c:\users\alex\documents\visual studio 2017\Projects\FactorialsConsoleApplication\FactorialsConsoleApplication\obj\Debug\FactorialsConsoleApplication.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2017\Projects\FactorialsConsoleApplication\FactorialsConsoleApplication\obj\Debug\FactorialsConsoleApplication.exe
+c:\users\alex\documents\visual studio 2017\Projects\FactorialsConsoleApplication\FactorialsConsoleApplication\obj\Debug\FactorialsConsoleApplication.pdb
